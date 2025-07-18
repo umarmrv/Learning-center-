@@ -1,0 +1,2 @@
+Mevalar = ["apple" , "Lime ", "BAnana" ]
+           
