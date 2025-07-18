@@ -1,1 +1,2 @@
 firdavs=("hello")
+print(firdavs)
