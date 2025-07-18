@@ -1,1 +1,2 @@
-name = "gojo"
+name = "gojo" 
+print (name)
